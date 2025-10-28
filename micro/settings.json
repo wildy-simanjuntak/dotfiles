@@ -1,0 +1,18 @@
+{
+    "autosu": true,
+    "backup": false,
+    "colorscheme": "gotham",
+    "detectindent": true,
+    "hlsearch": true,
+    "pluginchannels": [
+        "https://micro-editor.github.io/plugin-channel.json"
+    ],
+    "relativenumber": true,
+    "savecursor": true,
+    "scrollmargin": 4,
+    "smartcase": true,
+    "smartindent": true,
+    "statusformatr": "File: ${filename} | Line: ${line}:${col} | ${status}",
+    "tabstospaces": true,
+    "truecolor": true
+}
